@@ -1,2 +1,2 @@
 # PeRCNN
-Physics-encoded recurrent convolutional neural network
+Physics-embedded recurrent convolutional neural network
