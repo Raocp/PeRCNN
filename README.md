@@ -1,8 +1,9 @@
 # PeRCNN
 Physics-embedded recurrent convolutional neural network
 
-Paper link: [[ArXiv](https://arxiv.org/pdf/2106.04781.pdf)]
-By Chengping Rao, Pu Ren, Yang Liu, Hao Sun
+Paper link: [[ArXiv](https://arxiv.org/pdf/2106.04781.pdf)] (We will update the final version later...)
+
+By [Chengping Rao](https://scholar.google.com/citations?user=29DpfrEAAAAJ&hl=en), [Pu Ren](https://scholar.google.com/citations?user=7FxlSHEAAAAJ&hl=en), [Yang Liu](https://coe.northeastern.edu/people/liu-yang/), [Hao Sun](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20210163&ln=en)
 
 
 ## Highlights
