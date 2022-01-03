@@ -38,7 +38,7 @@ Due to the file size limit, we attach the google drive [[link](https://drive.goo
 
 
 ## Citation
-Please consider cite us if you find our research helpful :D
+Please consider citing us if you find our research helpful :D
 ```
 @article{rao2021embedding,
   title={Embedding Physics to Learn Spatiotemporal Dynamics from Sparse Data},
